@@ -33,3 +33,6 @@ Fundamentally, the OpenTelemetry model seeks to unify this signal by enriching l
 These semantics run the gamut from metadata (to represent resources such as server hostnames, IP addresses, or cloud regions) to specific naming conventions for HTTP routes, serverless execution environment information, and pub-sub messaging queue directions
 ## cardinality `the number of elements (= separate items) in a mathematical set`
 There are two ways to manage attribute cardinality. The first is to use observability pipelines, views, and other tools to reduce the cardinality of metrics, traces, and logs as they’re emitted and processed
+
+## masquerade `behaviour that is intended to prevent the truth about something unpleasant or not wanted from becoming known`
+Masquerading is a special type of SNAT in which one computer rewrites packets to make them appear to come from itself
