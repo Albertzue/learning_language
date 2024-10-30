@@ -36,3 +36,6 @@ There are two ways to manage attribute cardinality. The first is to use observab
 
 ## masquerade `behaviour that is intended to prevent the truth about something unpleasant or not wanted from becoming known`
 Masquerading is a special type of SNAT in which one computer rewrites packets to make them appear to come from itself
+
+## stymie `to prevent something from happening or someone from achieving a purpose`
+we are still stymied by a basic fact: software has to run on hardware
