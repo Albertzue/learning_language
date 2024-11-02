@@ -39,3 +39,5 @@ Masquerading is a special type of SNAT in which one computer rewrites packets to
 
 ## stymie `to prevent something from happening or someone from achieving a purpose`
 we are still stymied by a basic fact: software has to run on hardware
+
+## Syntactic sugar  `In computer science, syntactic sugar is syntax within a programming language that is designed to make things easier to read or to express`
