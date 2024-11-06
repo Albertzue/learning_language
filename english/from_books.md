@@ -50,3 +50,11 @@ The most obvious watershed event was the creation and subsequent intense commerc
 
 ## synergistically  `in a way that causes or involves synergy (= the combined power of working together that is greater than the power achieved by working separately)`
 As we shall see, NAT can also be synergistically combined with firewalls to produce combination devices that have become the most popular types of routers used to connect end users, including home networks and small enterprises, to the Internet.
+
+## tailor `someone whose job is to make, repair, and adjust clothes`
+
+**tailored**
+```
+They prefer a tailored approach.
+Tax havens increasingly aim to provide specific tailored benefits for users.
+```
