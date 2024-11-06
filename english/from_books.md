@@ -41,3 +41,6 @@ Masquerading is a special type of SNAT in which one computer rewrites packets to
 we are still stymied by a basic fact: software has to run on hardware
 
 ## Syntactic sugar  `In computer science, syntactic sugar is syntax within a programming language that is designed to make things easier to read or to express`
+
+## Milieu `the people, physical, and social conditions and events that provide the environment in which someone acts or lives`
+The Internet Milieu of the Twenty-first Century
