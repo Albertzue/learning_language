@@ -44,3 +44,6 @@ we are still stymied by a basic fact: software has to run on hardware
 
 ## Milieu `the people, physical, and social conditions and events that provide the environment in which someone acts or lives`
 The Internet Milieu of the Twenty-first Century
+
+## watershed  `an event or period that is important because it represents a big change in how people do or think about something`
+The most obvious watershed event was the creation and subsequent intense commercialization of the World Wide Web starting in the early 1990s. 
