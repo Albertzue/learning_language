@@ -58,3 +58,6 @@ As we shall see, NAT can also be synergistically combined with firewalls to prod
 They prefer a tailored approach.
 Tax havens increasingly aim to provide specific tailored benefits for users.
 ```
+
+## brittle  `delicate and easily broken`
+A very brittle type of NAT overloads not only addresses but also ports (called port overloading)
