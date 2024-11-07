@@ -61,3 +61,6 @@ Tax havens increasingly aim to provide specific tailored benefits for users.
 
 ## brittle  `delicate and easily broken`
 A very brittle type of NAT overloads not only addresses but also ports (called port overloading)
+
+## fallback  `A fallback plan or position can be used if other plans do not succeed or other things are not available`
+fallbackNTP
