@@ -64,3 +64,6 @@ A very brittle type of NAT overloads not only addresses but also ports (called p
 
 ## fallback  `A fallback plan or position can be used if other plans do not succeed or other things are not available`
 fallbackNTP
+
+## hassles   `(a situation causing) difficulty or trouble`
+They’ve greatly improved the productivity of millions of developers by eliminating many of the hassles, costs, and “undifferentiated heavy lifting” of dealing with servers, from security patching to autoscaler tuning.
