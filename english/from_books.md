@@ -67,3 +67,7 @@ fallbackNTP
 
 ## hassles   `(a situation causing) difficulty or trouble`
 They’ve greatly improved the productivity of millions of developers by eliminating many of the hassles, costs, and “undifferentiated heavy lifting” of dealing with servers, from security patching to autoscaler tuning.
+
+## voluntary `done, made, or given willingly, without being forced or paid to do it`
+Pods do not disappear until someone (a person or a controller) destroys them, or there is an unavoidable hardware or system software error.\
+We call these unavoidable cases involuntary disruptions to an application.
